@@ -1,5 +1,5 @@
 /**
-  @page LoRa Readme file
+  @page LoRa Readme filep
  
   @verbatim
   ******************** (C) COPYRIGHT 2017 STMicroelectronics *******************
